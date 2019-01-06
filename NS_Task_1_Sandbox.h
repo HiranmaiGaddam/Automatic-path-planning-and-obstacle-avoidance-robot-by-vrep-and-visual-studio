@@ -19,3 +19,4 @@ void Square(void);
 void Task_1_1(void);
 
 void Task_1_2(void);
+Task_1_2();
